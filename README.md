@@ -12,7 +12,7 @@ Welcome to **customanisettev3**, a custom anisette server for use with SideStore
 1. Open the **SideStore** app on your device.
 2. Navigate to the **Settings** tab.
 3. Scroll down to **Anisette Servers**.
-4. Replace the server list URL with:https://marcushash.github.io/customanisettev3/servers.json
+4. Replace the server list URL with: https://marcushash.github.io/customanisettev3/servers.json
 5. 5. Tap **Refresh Servers**.
 6. Select **Marcus's Anisette** from the updated list.
 
